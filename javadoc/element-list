@@ -1,0 +1,8 @@
+com.bus.reservationsystem
+com.bus.reservationsystem.controller
+com.bus.reservationsystem.entity
+com.bus.reservationsystem.exception
+com.bus.reservationsystem.repository
+com.bus.reservationsystem.representation.request
+com.bus.reservationsystem.representation.response
+com.bus.reservationsystem.service
